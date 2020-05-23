@@ -1,0 +1,16 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const GET_EVENT = "GET_EVENT";
+export const ADD_EVENT = "ADD_EVENT";
+export const DELETE_EVENT = "DELETE_EVENT";
+export const SET_CURRENT = "SET_CURRENT";
+export const CLEAR_CURRENT = "CLEAR_CURRENT";
+export const UPDATE_EVENT = "UPDATE_EVENT";
+export const CLEAR_EVENT = "CLEAR_EVENT";
+export const SET_LOADING = "SET_LOADING";
+export const EVENT_ERROR = "EVENT_ERROR";
+export const SEARCH_EVENT = "SEARCH_EVENT";
+export const REGISTER = "REGISTER";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const AUTH_LOADING = "AUTH_LOADING";
+export const USER_ERROR = "USER_ERROR";

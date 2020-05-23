@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "user": 1,
+      "name": "React Fanfest",
+      "location": "Rohtak, Haryana",
+      "date": "June 10, 2020",
+      "time": "9AM-5PM",
+      "about": "For React DevOps",
+      "id": 1
+    },
+    {
+      "user": 1,
+      "name": "Nitesh Kumar",
+      "location": "Haryana, India",
+      "date": "June 1, 2020",
+      "time": "Full Day",
+      "about": "An Event",
+      "id": 3
+    },
+    {
+      "user": 2,
+      "name": "kjnk",
+      "location": "kjbkj",
+      "date": "bkjb",
+      "time": "kjbk",
+      "about": "jbk",
+      "id": 4
+    },
+    {
+      "user": 2,
+      "name": "khj",
+      "location": "bkj",
+      "date": "bkj",
+      "time": "bkjb",
+      "about": "kj",
+      "id": 6
+    },
+    {
+      "user": 1,
+      "name": "bjkbkj",
+      "location": "bkjb",
+      "date": "kb",
+      "time": "kjbk",
+      "about": "jk",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "nitesh@gmail.com",
+      "password": "$2a$10$1l6T78kz6XEWUjEJJ8REt.ItXfjggitnI.CYoVz1yGY6YGYwV42aq",
+      "id": 1
+    },
+    {
+      "email": "nitesh2@gmail.com",
+      "password": "$2a$10$foNgFfKhJjNxIbkEVDa8qOD7/NNMAIsN4XLrps9Czg6Bx5836uYhm",
+      "id": 2
+    }
+  ]
+}
